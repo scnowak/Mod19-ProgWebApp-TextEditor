@@ -76,22 +76,15 @@ Visit the deployed site below. When you enter text it will save automatically wh
 https://pwa-with-jate-bdca3d62036d.herokuapp.com/
 
 
-<video src="TEXT%20EDITOR%20MOD19.mp4" controls title="Title"></video>
+<video src="MOD19_TEXT_EDITOR02052024.mp4" controls title="Title"></video>
 
 ### Screenshots
 
-![Web page in browser](/assets/1.png)
+![Manifest.json](/assets/manifest_json.png)
 
-![Install button in browser](/assets/2.png)
+![Registered Service Worker](/assets/reg_svc_worker.png)
 
-![Install box](/assets/3.png)
-
-![Installed on local machine](/assets/4.png)
-
-![cache storage](/assets/5.png)
-
-![Inspect](/assets/6.png)
-
+![IndexedDB Storage](/assets/indexedDB_storage.png)
 
 
 
@@ -129,6 +122,7 @@ SOFTWARE.
 ## Contact
 
 This app was created by Shan Nowak.
+I received fantastic support and help from my tutor Bobbi Tarkany.
 
 Contact:
 
